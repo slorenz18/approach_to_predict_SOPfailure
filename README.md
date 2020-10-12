@@ -1,0 +1,4 @@
+# SJLtestrep
+# A Repository for EHL and Sym. Pressure Distributions
+
+In this repository one will find the complete series of images which illustrate all pressure distributions used in the analysis for probability of surface failure mechanism.  This repository includes the EHL pressure distributions as well as the representative sym. pressure distributions.  The EHL pressure distributions were generated using a finite difference scheme numerical model following the work of Venner et al. (1991).  The Roelands pressure-viscosity and Dowson-Higginson pressure-density relationships were used in the numerical EHL model. 
