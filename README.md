@@ -11,4 +11,4 @@ Where:
 * {Hertzian Pressure} which takes values of 1.00 GPa, 1.25 GPa, 1.50 GPa
 * {Hertzian half-contact width} which takes values of 100 micron, 125 micron, 150 micron
 * {Roughness Amplitdue} which takes values of 0.062 micron, 0.081 micron, 0.108 micron, 0.125 micron
-* {Roughness Frequency} which takes values of 11 (LF), 21 (BF), 31 (HF)
+* {Roughness Frequency} which takes values of 11, 21, 31 peaks per 400 micron
